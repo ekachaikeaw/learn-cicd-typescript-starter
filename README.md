@@ -1,4 +1,4 @@
-![Github Action](https://github.com/ekachaikeaw/learn-cicd-typescript-starter/actions/workflows/ci.yml)
+![Github Action](https://github.com/ekachaikeaw/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 
 # learn-cicd-typescript-starter (Notely)
